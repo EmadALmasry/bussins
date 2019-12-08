@@ -1,0 +1,89 @@
+body {background-color:darkred;}
+.ab {
+	font-family:fontawesome;
+	text-align:center;
+	color:white;
+}
+.ab #ab1{
+	font-family:cairo;
+	font-size:70px;
+	margin:0;
+}
+.ab #ab2{
+	font-size:40px;
+	font-family:cairo;
+	margin:0;
+}
+.ab hr{
+	width:350px;
+	height:5px;
+	background-color:white;
+}
+
+
+.e {
+	font-family:fontawesome;
+	float:left;
+	color:white;
+	font-size:30px;
+	height:200px;
+	width:200px;
+	background-color:darkorange;
+	text-align:center;
+	
+}
+.e label {
+	display:block;
+	margin-top:20px;
+}
+.e #e2 {
+	font-size:25px;
+	font-family:cairo;
+	margin:0;
+}
+.e #e3 {
+	font-size:50px;
+}
+.e #e1{
+	font-family:cairo;
+	margin:0;
+}
+
+.rer {
+	margin-left:280px;
+	margin-top:40px;
+}
+img {float:left;}
+.img1 {
+	padding-right:250px;
+	display:block;
+	
+}
+.m {
+	font-family:fontawesome;
+	float:left;
+	color:white;
+	font-size:30px;
+	height:200px;
+	width:200px;
+	background-color:darkorange;
+	text-align:center;
+	
+}
+.m label {
+	display:block;
+	margin-top:20px;
+	
+}
+.m #m1{
+	font-family:cairo;
+	margin:0;
+}
+.m #m2 {
+	font-size:25px;
+	font-family:cairo;
+	margin:0;
+}
+.m #m3 {
+	font-size:50px;
+}

@@ -1,0 +1,84 @@
+.ab {
+	font-family:fontawesome;
+	text-align:center;
+	color:black;
+}
+.ab #ab1{
+	font-family:cairo;
+	font-size:70px;
+	margin:0;
+}
+.ab #ab2{
+	font-size:40px;
+	font-family:cairo;
+	margin:0;
+}
+.ab hr{
+	width:350px;
+	height:5px;
+	background-color:black;
+}
+
+
+
+ .fa {
+	display:inline;
+	height:400px;
+	width:400px;
+	text-align:center;
+	float:left;
+	font-family:cairo;
+	margin-top:50px;
+}
+.fa label{
+	display:block;
+	font-size:22px;
+}
+.fa p{
+	font-size:50px;
+	margin:0;
+}
+
+
+
+ .la{
+	display:inline;
+	height:300px;
+	width:400px;
+	text-align:center;
+	float:left;
+	margin-left:100px;
+	margin-top:60px;
+	font-family:cairo;	
+}
+.la label{
+	display:inline;
+	font-size:23px
+}
+.la p{
+	font-size:40px;
+	margin:0;
+}
+
+
+
+
+ .ads{
+	display:inline;
+	height:300px;
+	width:320px;
+	text-align:center;
+	float:left;
+	margin-left:80px;
+	margin-top:60px;
+	font-family:cairo;	
+}
+.ads label{
+	display:inline;
+	font-size:21px;
+}
+.ads p{
+	font-size:40px;
+	margin:0;
+}
+
